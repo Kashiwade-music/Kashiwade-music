@@ -1,21 +1,15 @@
-name: GitHub-Profile-Summary-Cards
-
+name: Metrics
 on:
-  create:
-  push:
-  schedule: # execute every 24 hours
-    - cron: "* */24 * * *"
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
-
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
-    name: generate
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+      - uses: lowlighter/metrics@latest
         with:
-          USERNAME: ${{ github.repository_owner }}
+          token: ${{ secrets.SUMMARY_CARDS_TOKEN }}
