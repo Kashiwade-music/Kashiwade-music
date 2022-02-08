@@ -14,5 +14,7 @@
   </a>
 </p>
 
-<img align="center" src="/metrics1.svg" alt="Metrics" width="80%">
-<img align="center" src="/metrics2.svg" alt="Metrics" width="80%">
+<div>
+<img align="center" src="/metrics1.svg" alt="Metrics" width="50%">
+<img align="center" src="/metrics2.svg" alt="Metrics" width="50%">
+</div>
