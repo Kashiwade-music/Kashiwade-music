@@ -27,4 +27,4 @@
 - DAW : Steinberg Cubase Pro 12
 - Favo Inst : Spitfire Chamber Strings
 - Favo Plugin : Crave EQ
-- Favo Composer : Yu-Pneg Chen, Joe Hisaishi, HIroyuki Sawano
+- Favo Composer : Yu-Peng Chen, Joe Hisaishi, HIroyuki Sawano
