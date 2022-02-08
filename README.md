@@ -25,6 +25,6 @@
 	- Make music
 	- You can listen to my music from [YouTube](https://www.youtube.com/channel/UCSLhB_FXseHmBCC2X0TwsjA) or [Soundcloud](https://soundcloud.com/kashiwade)
 - DAW : Steinberg Cubase Pro 12
-- Favo Inst : Spitfire Chamber Strings
-- Favo Plugin : Crave EQ
-- Favo Composer : Yu-Peng Chen, Joe Hisaishi, HIroyuki Sawano
+- Fav Inst : Spitfire Chamber Strings
+- Fav Plugin : Crave EQ
+- Fav Composer : Yu-Peng Chen, Joe Hisaishi, HIroyuki Sawano
