@@ -24,7 +24,6 @@
 - Hobby
 	- Make music
 	- You can listen to my music from [YouTube](https://www.youtube.com/channel/UCSLhB_FXseHmBCC2X0TwsjA) or [Soundcloud](https://soundcloud.com/kashiwade)
-- DAW : Steinberg Cubase Pro 12
+- DAW : Steinberg Cubase Pro 13
 - Fav Inst : Spitfire Chamber Strings
-- Fav Plugin : Crave EQ
 - Fav Composer : Yu-Peng Chen, Joe Hisaishi, HIroyuki Sawano
