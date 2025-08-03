@@ -1,6 +1,5 @@
 # Kashiwade
 
-
 <p align="left"> 
   <a href="https://github.com/Kashiwade-music/Kashiwade-music/">
     <img src="https://komarev.com/ghpvc/?username=Kashiwade-music" alt="Kashiwade-music" />
@@ -16,14 +15,13 @@
   </a>
 </p>
 
-<div>
-<img align="right" src="/metrics1.svg" alt="Metrics" width="50%">
-<img align="right" src="/metrics2.svg" alt="Metrics" width="50%">
-</div>
-
 - Hobby
 	- Make music
 	- You can listen to my music from [YouTube](https://www.youtube.com/channel/UCSLhB_FXseHmBCC2X0TwsjA) or [Soundcloud](https://soundcloud.com/kashiwade)
 - DAW : Steinberg Cubase Pro 13
 - Fav Inst : Spitfire Chamber Strings
 - Fav Composer : Yu-Peng Chen, Joe Hisaishi, HIroyuki Sawano
+
+[![](https://raw.githubusercontent.com/Kashiwade-music/Kashiwade-music/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Kashiwade-music/Kashiwade-music/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Kashiwade-music/Kashiwade-music/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Kashiwade-music/Kashiwade-music/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Kashiwade-music/Kashiwade-music/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
